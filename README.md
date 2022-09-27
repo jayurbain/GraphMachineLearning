@@ -65,17 +65,21 @@ Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković](https://arxiv.
 8. Applications of Graph Neural Networks  
 9. Theory of Graph Neural Networks  
 
-### Week 5: Intro to Data Science, data science programming in Python  
+### Week 5: Knowledge Graphs  
 10. Knowledge Graph Embeddings  
 11. Reasoning over Knowledge Graphs  
 
-### Week 6: Intro to Data Science, data science programming in Python
-
+### Week 6: Midterm, Subgraph Mining  
 MIDTERM  
 12. Frequent Subgraph Mining with GNNs  
+
+### Week 7: Recommender Systems, Identifying Community Structure in Graphs   
 13. GNNs for Recommender Systems  
 14. Community Structure in Networks  
-15. Deep Generative Models for Graphs  
+
+### Week 8: Generative Graph Models       
+15. Deep Generative Models for Graphs   
+[AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)
 
 ### Week 9: Advanced Topics and Scaling  
 16. Advanced Topics   
