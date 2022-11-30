@@ -42,6 +42,9 @@ Weekly labs and final project: 60%
 Midterm: 20%   
 Final: 20%   
 
+Office DH425:    
+T 3-4pm, Th 3-4pm 
+
 References:  
 
 [Graph Representation Learning by William L. Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/)
