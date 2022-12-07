@@ -72,7 +72,7 @@ Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković](https://arxiv.
 
 [Lab 0. Data Handling of Graphs](labs/Data%20Handling%20of%20Graphs.ipynb) 
 
-[Lab 1. Graph ML Research Topics](labs/Lab%201.%20Graph%20ML%20Research%20Topics%20-%20Google%20Docs.pdf)  
+[Lab 1. Graph ML Research Topics](labs/Lab%201.%20Graph%20ML%20Research%20Topics.pdf)  
 
 [Graph Laplacian Notebook](https://colab.research.google.com/github/Taaniya/graph-analytics/blob/master/Graph_Laplacian_and_Spectral_Clustering.ipynb#scrollTo=BW6RnVt1X-0Z)
 
@@ -89,9 +89,9 @@ https://arxiv.org/pdf/1211.0053.pdf)
 [3. Link Analysis](slides/3.%20Link%20Analysis.pdf)
 
 [4. Random Walk]()
-  
-Lab: [PageRank]()   
-<!--Lab: [Hubs and Spokes]()  -->
+
+[Lab 2: Link Analysis](labs/Lab%20Link%20Analysis.pdf)    
+[Lab 2: PageRank notebook](labs/PageRank.ipynb)
 
 References:    
 [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)    
