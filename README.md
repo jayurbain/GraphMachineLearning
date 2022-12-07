@@ -90,7 +90,8 @@ https://arxiv.org/pdf/1211.0053.pdf)
 
 [4. Random Walk]()
 
-[Lab 2: Link Analysis](labs/Lab%20Link%20Analysis.pdf)    
+[Lab 2: Link Analysis](labs/Lab%202.%20Link%20Analysis.pdf)  
+
 [Lab 2: PageRank notebook](labs/PageRank.ipynb)
 
 References:    
