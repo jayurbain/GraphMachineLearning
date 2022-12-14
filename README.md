@@ -88,8 +88,6 @@ https://arxiv.org/pdf/1211.0053.pdf)
 
 [3. Link Analysis](slides/3.%20Link%20Analysis.pdf)
 
-[4. Random Walk]()
-
 [Lab 2: Link Analysis](labs/Lab%202.%20Link%20Analysis.pdf)  
 
 [Lab 2: PageRank notebook](labs/PageRank.ipynb)
@@ -101,9 +99,9 @@ References:
 
 ### Week 3: Node Classification, Intro to Graph Neural Networks 
 
-[5. Node Embeddings, Label Propagation for Node Classification]()   
+[4. Message Passing, Node Embeddings, and Representations](slices/4.%20Message%20Passing%20and%20Representations)   
 
-[6. An Introduction to Graph Neural Networks: Models and Applications](slides/5.%20Graph%20Neural%20Network%20Background.pdf)
+[5. An Introduction to Graph Neural Networks: Models and Applications](slides/5.%20Graph%20Neural%20Network%20Background.pdf)
  
 [Lab: Node2Vec]()   
 [Lab: Node2Vec with Random Restart]()   
