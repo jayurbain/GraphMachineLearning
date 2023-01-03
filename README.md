@@ -99,47 +99,82 @@ References:
 
 ### Week 3: Node Classification, Intro to Graph Neural Networks 
 
-[4. Message Passing, Node Embeddings, and Representations](slices/4.%20Message%20Passing%20and%20Representations)   
+[4. Message Passing, Node Embeddings, and Representations](slices/4.%20Message%20Passing%20and%20Representations.pdf)   
 
-[5. An Introduction to Graph Neural Networks: Models and Applications](slides/5.%20Graph%20Neural%20Network%20Background.pdf)
+[5. Node Embeddings, Random Walk, Node2vec](slides/5.%20Node%20Emgeddings.pdf)
  
-[Lab: Node2Vec]()   
-[Lab: Node2Vec with Random Restart]()   
+[Hands-on: Node2Vec](labs/DeepWalk.ipynb)  (optional)
 
-### Week 4: Graph Neural Networks  
-[7. Graph Neural Networks: Design and Theory]()    
-[8. Applications of Graph Neural Networks]()
+[Lab 3: Hands-on GCN](labs/lab3_handson_gcn.ipynb)
+
+[Lab 3: Node Classification](labs/lab3_node_class.ipynb)
+
+### Week 4: Machine Learning Review, Graph Neural Network Intro
+
+[6. Machine Learning Intro](slides/6.%20Machine%20Learning%20Intro.pdf)
+
+[Hands-on Gradient Descent Notebook](notebooks/gradient_descent_assignment_solution.ipynb)
+
+[Hands-on Logistic Regression with Pytorch](notebooks/Building%20a%20Logistic%20Regression%20Classifier%20in%20PyTorch.ipynb)
+
+[7. Deep Learning Intro](slides/7.%20Deep%20Learning%20Intro.pdf)
+
+[Hands-on Neural Network](labs/Building%20a%20Convolutional%20Neural%20Network%20in%20PyTorch.ipynb)
+
+[Hands-on Convolutional Neural Network]()
+
+[8. Graph Neural Network Intro](slides/8.%20Graph%20Neural%20Network%20Intro.pdf)
 
 [Lab: Simple Graph Convolution Network]()
 
 References:   
+
 [Simplifying Graph Convolutional Networks](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)  
 
-### Week 5: Knowledge Graphs  
-[9. Knowledge Graph Embeddings ]() 
-[10. Reasoning over Knowledge Graphs]()  
+[SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](https://arxiv.org/pdf/1609.02907.pdf)  
 
-### Week 6: Midterm, Subgraph Mining  
-[11. MIDTERM]() Placeholder for study guide      
-[12. Frequent Subgraph Mining with GNNs]() 
+### Week 5: Deep Graph Learning, GraphSage, Applications
+
+[9. Deep Graph Learning]() 
+
+[10. GraphSage]()  
+
+References:   
+[Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
+### Week 6: Knowledge Graphs  
+[9. Knowledge Graph Embeddings ]() 
+
+[10. MIDTERM]() Placeholder for study guide 
+
+[11. Reasoning over Knowledge Graphs]()
 
 ### Week 7: Recommender Systems, Identifying Community Structure in Graphs   
-[13. GNNs for Recommender Systems ]()
-[14. Community Structure in Networks]()
+[12. FINAL Project Proposal]() 
 
-### Week 8: Generative Graph Models       
-[15. Deep Generative Models for Graphs]()   
-[16. Student presentations]()  
+[13. Frequent Subgraph Mining with GNNs]()
+
+[14. GNNs for Recommender Systems ]()
+
+[15. Community Structure in Networks]()
+
+### Week 8: Generative Graph Models   
+
+[16. Deep Generative Models for Graphs]() 
+
+[17. Student presentations]()  
 
 Reference   
 [AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)
 
 ### Week 9: Advanced Topics and Scaling  
-[17. Advanced Topic, Scaling Up GNNs]()     
-[18. Student presentations]()  
 
+[18. Advanced Topic, Scaling Up GNNs, if time]() 
+
+[19. Student presentations]()  
 
 ### Week 10: Final Projects  
-[19. Student presentations]()  
-[20. Final review, advanced topic?]()
+
+[20. Student presentations]()  
+
+[21. Final review, advanced topic?]()
 
