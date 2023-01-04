@@ -119,13 +119,9 @@ References:
 
 [7. Deep Learning Intro](slides/7.%20Deep%20Learning%20Intro.pdf)
 
-[Hands-on Neural Network](labs/Building%20a%20Convolutional%20Neural%20Network%20in%20PyTorch.ipynb)
-
-[Hands-on Convolutional Neural Network]()
+[Lab 4. Building a Neural Network in PyTorch](labs/Lab%204.%20Building%20a%20Neural%20Network%20in%20PyTorch.ipynb)
 
 [8. Graph Neural Network Intro](slides/8.%20Graph%20Neural%20Network%20Intro.pdf)
-
-[Lab: Simple Graph Convolution Network]()
 
 References:   
 
