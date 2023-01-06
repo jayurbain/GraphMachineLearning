@@ -117,11 +117,13 @@ References:
 
 [Hands-on Logistic Regression with Pytorch](notebooks/Building%20a%20Logistic%20Regression%20Classifier%20in%20PyTorch.ipynb)
 
+[XOR and Logistic Regression Proof](slides/XOR_and_LogisticRegression.pdf)    
+
+[XOR and Logistic Regression Notebook](labs/XOR.ipynb)
+
 [7. Deep Learning Intro](slides/7.%20Deep%20Learning%20Intro.pdf)
 
 [Lab 4. Building a Neural Network in PyTorch](labs/Lab%204.%20Building%20a%20Neural%20Network%20in%20PyTorch.ipynb)
-
-[8. Graph Neural Network Intro](slides/8.%20Graph%20Neural%20Network%20Intro.pdf)
 
 References:   
 
@@ -130,6 +132,8 @@ References:
 [SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](https://arxiv.org/pdf/1609.02907.pdf)  
 
 ### Week 5: Deep Graph Learning, GraphSage, Applications
+
+[8. Graph Neural Network Intro](slides/8.%20Graph%20Neural%20Network%20Intro.pdf)
 
 [9. Deep Graph Learning]() 
 
