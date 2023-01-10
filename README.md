@@ -99,9 +99,9 @@ References:
 
 ### Week 3: Node Classification, Intro to Graph Neural Networks 
 
-[4. Message Passing, Node Embeddings, and Representations](slices/4.%20Message%20Passing%20and%20Representations.pdf)   
+[4. Message Passing, Node Embeddings, and Representations](slides/4.%20Message%20Passing%20and%20Representations.pdf)   
 
-[5. Node Embeddings, Random Walk, Node2vec](slides/5.%20Node%20Emgeddings.pdf)
+[5. Node Embeddings, Random Walk, Node2vec](slides/5.%20Node%20Embeddings.pdf)
  
 [Hands-on: Node2Vec](labs/DeepWalk.ipynb)  (optional)
 
@@ -113,9 +113,9 @@ References:
 
 [6. Machine Learning Intro](slides/6.%20Machine%20Learning%20Intro.pdf)
 
-[Hands-on Gradient Descent Notebook](notebooks/gradient_descent_assignment_solution.ipynb)
+[Hands-on Gradient Descent Notebook](labs/gradient_descent_assignment_solution.ipynb)
 
-[Hands-on Logistic Regression with Pytorch](notebooks/Building%20a%20Logistic%20Regression%20Classifier%20in%20PyTorch.ipynb)
+[Hands-on Logistic Regression with Pytorch](labs/Building%20a%20Logistic%20Regression%20Classifier%20in%20PyTorch.ipynb)
 
 [XOR and Logistic Regression Proof](slides/XOR_and_LogisticRegression.pdf)    
 
@@ -133,11 +133,16 @@ References:
 
 ### Week 5: Deep Graph Learning, GraphSage, Applications
 
+[8. Graph Neural Network Intro](slides/8.%20Graph%20Neural%20Network%20Intro.pdf)  
+Slides 1-16.
+
 [8. Graph Neural Networks](slides/8.%20Graph%20Neural%20Networks.pdf)
 
+<!--
 [9. Deep Graph Learning]() 
 
 [10. GraphSage]()  
+-->
 
 References:
 
