@@ -133,11 +133,19 @@ References:
 
 ### Week 5: Deep Graph Learning, GraphSage, Applications
 
-[8. Graph Neural Network Intro](slides/8.%20Graph%20Neural%20Network%20Intro.pdf)
+[8. Graph Neural Networks](slides/8.%20Graph%20Neural%20Networks.pdf)
 
 [9. Deep Graph Learning]() 
 
 [10. GraphSage]()  
+
+References:
+
+[Graph Neural Networks: A review of Methods and Applications, Zhou, 2018.
+Graph Representation Learning, Hamilton, 2020. ](https://arxiv.org/abs/1812.08434)
+
+[Graph Representation Learning, Ch. 4 Graph Neural Network Model](
+https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
 
 References:   
 [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
