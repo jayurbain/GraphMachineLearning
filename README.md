@@ -138,11 +138,7 @@ Slides 1-16.
 
 [8. Graph Neural Networks](slides/8.%20Graph%20Neural%20Networks.pdf)
 
-<!--
-[9. Deep Graph Learning]() 
-
-[10. GraphSage]()  
--->
+[Lab 5. Graph Level Prediction](labs/lab_5_graphneuralnets_esol.ipynb)
 
 References:
 
