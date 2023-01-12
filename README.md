@@ -147,26 +147,36 @@ Graph Representation Learning, Hamilton, 2020. ](https://arxiv.org/abs/1812.0843
 
 [Graph Representation Learning, Ch. 4 Graph Neural Network Model](
 https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
-
-References:   
+ 
 [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
-### Week 6: Knowledge Graphs  
-[9. Knowledge Graph Embeddings ]() 
 
-[10. MIDTERM]() Placeholder for study guide 
+### Week 6: Graph Convolution Networks, MIDTERM  
+[9. Graph Convolution Networks]() 
 
-[11. Reasoning over Knowledge Graphs]()
+[MIDTERM - study guide](slides/Graph%20Machine%20Learning%20Midterm%20Study%20Guide%201_11_2023.pdf) 
 
-### Week 7: Recommender Systems, Identifying Community Structure in Graphs   
-[12. FINAL Project Proposal]() 
+[Lab 6. FINAL Project Proposal]() 
+
+[10. Graph Attention Networks]() 
+
+### Week 7: Knowledge Graphs  
+[11. Knowledge Graph Embeddings ]() 
+
+[Lab 7. Graph Attention Network]() 
+
+[12. Reasoning over Knowledge Graphs]()
+
+### Week 8: Recommender Systems, Identifying Community Structure in Graphs   
 
 [13. Frequent Subgraph Mining with GNNs]()
 
 [14. GNNs for Recommender Systems ]()
 
+[Lab 8. TBD]() 
+
 [15. Community Structure in Networks]()
 
-### Week 8: Generative Graph Models   
+### Week 9: Generative Graph Models   
 
 [16. Deep Generative Models for Graphs]() 
 
@@ -175,15 +185,10 @@ References:
 Reference   
 [AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)
 
-### Week 9: Advanced Topics and Scaling  
+### Week 9: Advanced Topics and Scaling, Final Projects 
 
 [18. Advanced Topic, Scaling Up GNNs, if time]() 
 
-[19. Student presentations]()  
+[19. Student presentations]()
 
-### Week 10: Final Projects  
-
-[20. Student presentations]()  
-
-[21. Final review, advanced topic?]()
 
