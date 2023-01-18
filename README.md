@@ -151,13 +151,15 @@ https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
 [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
 
 ### Week 6: Graph Convolution Networks, MIDTERM  
-[9. Graph Convolution Networks]() 
+[9. Graph Convolution Networks](slides/9.%20Graph%20Convolution%20Networks.pdf) 
 
 [MIDTERM - study guide](slides/Graph%20Machine%20Learning%20Midterm%20Study%20Guide%201_11_2023.pdf) 
 
-[Lab 6. FINAL Project Proposal]() 
+[Lab 6. FINAL Project Proposal](labs/Lab%206.%20Graph%20ML%20Project%20Proposal.pdf) 
 
+<!--
 [10. Graph Attention Networks]() 
+-->
 
 ### Week 7: Knowledge Graphs  
 [11. Knowledge Graph Embeddings ]() 
