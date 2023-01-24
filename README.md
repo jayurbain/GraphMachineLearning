@@ -164,11 +164,13 @@ https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
 
 [9. Graph Convolution Networks](slides/9.%20Graph%20Convolution%20Networks.pdf) 
 
+[Lab 7. Hands-on Loading Graphs from CSV](labs/Loading_Graphs_from_CSV) 
+
+<!--
 [11. Knowledge Graph Embeddings ]() 
 
-[Lab 7. Honds-on Loading Graphs from CSV](labs/Loading_Graphs_from_CSV) 
-
 [12. Reasoning over Knowledge Graphs]()
+-->
 
 ### Week 8: Recommender Systems, Identifying Community Structure in Graphs   
 
