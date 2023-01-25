@@ -160,11 +160,15 @@ https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
 [10. Graph Attention Networks]() 
 -->
 
-### Week 7: Knowledge Graphs  
+### Week 7: Graph Convolution Networks  
 
 [9. Graph Convolution Networks](slides/9.%20Graph%20Convolution%20Networks.pdf) 
 
-[Lab 7. Hands-on Loading Graphs from CSV](labs/Loading_Graphs_from_CSV.ipynb) 
+[Lab 7.1. Hands-on Loading Graphs from CSV](labs/Loading_Graphs_from_CSV.ipynb) 
+
+[Lab 7.2. Graph ML Project](labs/Lab%207.%20Graph%20ML%20Project.pdf) 
+
+[Optional: Additional examples of Loading Graphs from CSV](labs/tabular_to_graph.ipynb)
 
 <!--
 [11. Knowledge Graph Embeddings ]() 
