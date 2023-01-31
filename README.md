@@ -160,7 +160,7 @@ https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
 [10. Graph Attention Networks]() 
 -->
 
-### Week 7: Graph Convolution Networks  
+### Week 7: Graph Convolution Networks, Graph Relational Networks  
 
 [9. Graph Convolution Networks](slides/9.%20Graph%20Convolution%20Networks.pdf) 
 
@@ -170,32 +170,37 @@ https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
 
 [Optional: Additional examples of Loading Graphs from CSV](labs/tabular_to_graph.ipynb)
 
+[10. Relational Graph Networks](slides/10.%20Relational%20Graph%20Networks.pdf)
 <!--
 [11. Knowledge Graph Embeddings ]() 
 
 [12. Reasoning over Knowledge Graphs]()
 -->
 
-### Week 8: Recommender Systems, Identifying Community Structure in Graphs   
+### Week 8: Graph Attention Networks, Recommender Systems   
 
+[11. Graph Attention Networks](slides/11.%20Graph%20Attention%20Networks.pdf)
+
+[Lab 7.2. Graph ML Project](labs/Lab%207.%20Graph%20ML%20Project.pdf) 
+
+[12. GNNs for Recommender Systems ]()
+
+<!--
 [13. Frequent Subgraph Mining with GNNs]()
 
-[14. GNNs for Recommender Systems ]()
-
-[Lab 8. TBD]() 
-
 [15. Community Structure in Networks]()
+-->
 
 ### Week 9: Generative Graph Models   
 
-[16. Deep Generative Models for Graphs]() 
+[13. Deep Generative Models for Graphs]() 
 
-[17. Student presentations]()  
+[Lab 7.2. Graph ML Project](labs/Lab%207.%20Graph%20ML%20Project.pdf) 
 
 Reference   
 [AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)
 
-### Week 9: Advanced Topics and Scaling, Final Projects 
+### Week 10: Advanced Topics and Scaling, Final Projects 
 
 [18. Advanced Topic, Scaling Up GNNs, if time]() 
 
