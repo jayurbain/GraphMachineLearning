@@ -183,7 +183,7 @@ https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
 
 [Lab 7.2. Graph ML Project](labs/Lab%207.%20Graph%20ML%20Project.pdf) 
 
-[12. GNNs for Recommender Systems ]()
+[12. Graph Recommender Systems](slides/12.%20Graph%20Recommender%20Systems.pdf)
 
 <!--
 [13. Frequent Subgraph Mining with GNNs]()
