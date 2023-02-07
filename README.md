@@ -193,7 +193,7 @@ https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
 
 ### Week 9: Generative Graph Models   
 
-[13. Deep Generative Models for Graphs]() 
+[13. Deep Generative Models for Graphs](slides/13.%20Generative%20Models%20for%20Graphs.pdf) 
 
 [Lab 7.2. Graph ML Project](labs/Lab%207.%20Graph%20ML%20Project.pdf) 
 
