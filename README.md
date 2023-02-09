@@ -197,8 +197,20 @@ https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
 
 [Lab 7.2. Graph ML Project](labs/Lab%207.%20Graph%20ML%20Project.pdf) 
 
-Reference   
-[AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)
+[14. Learning Deep Generative Models of Graphs.pdf](slides/14.%20Learning%20Deep%20Generative%20Models%20of%20Graphs.pdf)
+
+Hands On:   
+- [Deep Generative Graph Learning Notebook](labs/deep_graph_generative.ipynb)   
+- [Model file](labs/model.pth)   
+- [Annimation Gif](labs/48313438-78baf000-e5f7-11e8-931e-cd00ab34fa50.gif)
+
+References:      
+- GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models
+Jiaxuan You, Rex Ying, Xiang Ren, William L. Hamilton, Jure Leskovec  
+https://arxiv.org/abs/1802.08773
+- Learning Deep Generative Models of Graphs  
+https://arxiv.org/pdf/1803.03324.pdf   
+- [AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)
 
 ### Week 10: Advanced Topics and Scaling, Final Projects 
 
