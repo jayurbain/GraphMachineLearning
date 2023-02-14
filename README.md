@@ -214,7 +214,9 @@ https://arxiv.org/pdf/1803.03324.pdf
 
 ### Week 10: Advanced Topics and Scaling, Final Projects 
 
-[18. Advanced Topic, Scaling Up GNNs, if time]() 
+[15. Temporal Graph Networks](slides/15.%20Temporal%20Graph%20Neural%20Networks.pdf) 
+
+[Optional Traffice Notebook!](labs/traffic_prediction.ipynb) 
 
 [19. Student presentations]()
 
