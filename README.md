@@ -212,12 +212,17 @@ https://arxiv.org/abs/1802.08773
 https://arxiv.org/pdf/1803.03324.pdf   
 - [AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)
 
-### Week 10: Advanced Topics and Scaling, Final Projects 
+### Week 10: Temporal Graph Models, Final Projects, Final Exam Review 
 
 [15. Temporal Graph Networks](slides/15.%20Temporal%20Graph%20Neural%20Networks.pdf) 
 
 [Optional Traffice Notebook!](labs/traffic_prediction.ipynb) 
 
-[19. Student presentations]()
+[Student presentations](labs/Lab%207.%20Graph%20ML%20Project.pdf)
 
+[Final Exam Review](slides/Graph%20Machine%20Learning%20Final%20Exam%20Study%20Guide%202_15_2023.pdf)
+
+### Week 11: Final Exam 
+
+CS4981 Thursday 2:00 DH344
 
