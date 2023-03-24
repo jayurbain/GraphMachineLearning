@@ -1,8 +1,76 @@
 ----
 
-### Graph Machine Learning
+### Graph Machine Learning Workshop
+
+<!--
+Lab 4. Building a Neural Network in PyTorch - Solution.ipynb
+lab_5_graphneuralnets_esol_solution.ipynb
+lab3_handson_gcn_solution.ipynb
+lab3_node_class_solution.ipynb
+-->
+
+#### Workshop 1 - Intro   
+[1. Graph Machine Learning and Motivations](slides/1.%20Graph%20Machine%20Learning%20and%20Motivations.pdf)
+
+#### Workshop 2 - Basic graph representations   
+[2. Graph Representations](slides/2.%20Graph%20Representations.pdf)
+
+[Lab 0. Data Handling of Graphs](labs/Data%20Handling%20of%20Graphs.ipynb) 
+
+#### Workshop 3 - PageRank, message passing  
+[3. Link Analysis](slides/3.%20Link%20Analysis.pdf)
+
+#### Workshop 4 - Graph Neural Networks, graph level prediction    
+[8. Graph Neural Networks](slides/8.%20Graph%20Neural%20Networks.pdf)
+
+[Lab 3: Hands-on GCN](labs/lab3_handson_gcn.ipynb), [Solution](workshop_solutions/lab3_handson_gcn_solution.ipynb)    
+[Lab 3: Node Classification](labs/lab3_node_class.ipynb), [Solution](workshop_solutions/lab3_handson_gcn_solution.ipynb)     
+[Lab 5. Graph Level Prediction](labs/lab_5_graphneuralnets_esol.ipynb), [Solution](workshop_solutions/lab_5_graphneuralnets_esol_solution.ipynb)   
+
+Workshop 5 - Deep Generative Graph Models,  illustrative notebook   
+[14. Learning Deep Generative Models of Graphs.pdf](slides/14.%20Learning%20Deep%20Generative%20Models%20of%20Graphs.pdf)   
+- [Deep Generative Graph Learning Notebook](labs/deep_graph_generative.ipynb)   
+- [Model file](labs/model.pth)
+
+#### Note: Opening notebooks in colab
+
+
+_Runtime -> Change Runtime Type -> GPU_
+
+![Colab](colab.png)
+
+```
+# !nvidia-smi
+
+# Add this in a Google Colab cell to install the correct version of Pytorch Geometric.
+import torch
+
+def format_pytorch_version(version):
+  return version.split('+')[0]
+
+TORCH_version = torch.__version__
+TORCH = format_pytorch_version(TORCH_version)
+
+def format_cuda_version(version):
+  return 'cu' + version.replace('.', '')
+
+CUDA_version = torch.version.cuda
+CUDA = format_cuda_version(CUDA_version)
+
+!pip install torch-scatter     -f https://pytorch-geometric.com/whl/torch-{TORCH}+{CUDA}.html
+!pip install torch-sparse      -f https://pytorch-geometric.com/whl/torch-{TORCH}+{CUDA}.html
+!pip install torch-cluster     -f https://pytorch-geometric.com/whl/torch-{TORCH}+{CUDA}.html
+!pip install torch-spline-conv -f https://pytorch-geometric.com/whl/torch-{TORCH}+{CUDA}.html
+!pip install torch-geometric 
+```
+
+Select _Runtime -> Restart Runtime_ and start where you left off.
+
+### Graph Machine Learning Course
 
 This course provides an introduction to machine learning on graphs. 
+
+Paste the following in the first Colab cell to install pytorch geometric (if not present):
 
 Many important real-world datasets can be represented as a graph of relationships between objects. 
 Such networks are a basic tool for modeling social networks, knowledge graphs, the Web, 
@@ -66,8 +134,10 @@ Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković](https://arxiv.
 
 ### Week 1: Intro to Network Analysis and Machine Learning on Graphs
 
+Workshop 1 - Intro   
 [1. Graph Machine Learning and Motivations](slides/1.%20Graph%20Machine%20Learning%20and%20Motivations.pdf)
 
+Workshop 2 - Basic graph representations   
 [2. Graph Representations](slides/2.%20Graph%20Representations.pdf)
 
 [Lab 0. Data Handling of Graphs](labs/Data%20Handling%20of%20Graphs.ipynb) 
@@ -86,6 +156,7 @@ https://arxiv.org/pdf/1211.0053.pdf)
   
 ### Week 2: Link Analysis and Random Walk
 
+Workshop 3 - PageRank for recursive message passing
 [3. Link Analysis](slides/3.%20Link%20Analysis.pdf)
 
 [Lab 2: Link Analysis](labs/Lab%202.%20Link%20Analysis.pdf)  
@@ -98,7 +169,7 @@ References:
 [Authoritative Sources in a Hyperlinked Environment](https://www.cs.cornell.edu/home/kleinber/auth.pdf)    
 
 ### Week 3: Node Classification, Intro to Graph Neural Networks 
-
+ 
 [4. Message Passing, Node Embeddings, and Representations](slides/4.%20Message%20Passing%20and%20Representations.pdf)   
 
 [5. Node Embeddings, Random Walk, Node2vec](slides/5.%20Node%20Embeddings.pdf)
@@ -136,6 +207,7 @@ References:
 [8. Graph Neural Network Intro](slides/8.%20Graph%20Neural%20Network%20Intro.pdf)  
 Slides 1-16.
 
+Workshop 5 - Graph Neural Network    
 [8. Graph Neural Networks](slides/8.%20Graph%20Neural%20Networks.pdf)
 
 [Lab 5. Graph Level Prediction](labs/lab_5_graphneuralnets_esol.ipynb)
