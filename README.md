@@ -17,7 +17,7 @@ lab3_node_class_solution.ipynb
 
 [Lab 0. Data Handling of Graphs](labs/Data%20Handling%20of%20Graphs.ipynb) 
 
-#### Workshop 3 - PageRank, message passing  
+#### Workshop 3 - PageRank, message passing - Skip? 
 [3. Link Analysis](slides/3.%20Link%20Analysis.pdf)
 
 #### Workshop 4 - Graph Neural Networks, graph level prediction    
